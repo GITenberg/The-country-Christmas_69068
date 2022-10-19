@@ -1,0 +1,39 @@
+_repo: The-country-Christmas_69068
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    - Barry, Ethelred Breeze
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+creator:
+  author:
+    agent_name: Fox, Frances Margaret
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '2516'
+    url: http://www.gutenberg.org/2009/agents/2516
+description: ''
+gutenberg_issued: '2022-09-30'
+identifiers:
+  gutenberg: '69068'
+language: en
+pgterms:marc904: https://archive.org/details/countrychristmas00foxf/page/n8/mode/2up
+pgterms:marc905: 20201218192404fox
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Charlene Taylor, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :L. C. Page & company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The country Christmas
+url: http://www.gutenberg.org/ebooks/69068

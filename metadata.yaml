@@ -10,6 +10,9 @@ contributor:
     birthdate: 1870
     gutenberg_agent_id: '6348'
     url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: archival
+  image_path: 69068-h/images/cover.jpg
 creator:
   author:
     agent_name: Fox, Frances Margaret
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '2516'
     url: http://www.gutenberg.org/2009/agents/2516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69068#The-country-Christmas
 gutenberg_issued: '2022-09-30'
 identifiers:
   gutenberg: '69068'
